@@ -1,0 +1,22 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node (nếu sau này thêm build tool)
+node_modules/
+dist/
+
+# Biến môi trường / khóa bí mật (không bao giờ commit)
+.env
+.env.*
+*.pem
+*.key
+
+# Log
+*.log
